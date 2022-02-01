@@ -1,7 +1,7 @@
 {
-  "botname": "Zacros Bot",
+  "botname": "AGIL-BOTZ",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "6288971045393"
   ],
   "website": "https://www.azyansah.xyz/",
   "settings": {
@@ -12,7 +12,7 @@
    "zacros": "https://api.zacros.my.id"
   },
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
-  "footerText": "© Zacros Team",
+  "footerText": "© AGIL TEAM",
   "prefix": [
     ".",
     "!",
@@ -22,7 +22,7 @@
     "+",
     ","
   ],
-  "ownername": "Zacros Team",
+  "ownername": "AGIL DOANK",
   "unicode" : {
   "head": "⬣",
   "list": "⬡",
